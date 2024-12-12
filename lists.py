@@ -3,6 +3,7 @@ my_favourite_films = [
     "The Longest Day",
     "It's a wonderful life",
     "Casablanca",
+    "Ghostbusters",
     "The Big Lewbosky",
     "World War Z"
 ]
@@ -44,3 +45,19 @@ my_other_favorite_films = [
 my_favourite_films.extend(my_other_favorite_films)
 print(my_favourite_films)
 # combines two lists
+
+rainbow_colours = (
+    "red",
+    "red",
+    "orange",
+    "yellow",
+    "green",
+    "blue",
+    "indigo",
+    "violet"
+)
+
+print(rainbow_colours)
+
+print(rainbow_colours[3])
+
